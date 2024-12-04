@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/aidan/master-psyclone/src/psyclone/tests/psyir/tools'
+let g:netrw_dirhist_1='/home/aidan/PSyclone/src/psyclone/domain/gocean/nodes'
+let g:netrw_dirhist_0='/home/aidan/otter_work/pyotter/otter/db/_scripts'
+let g:netrw_dirhist_9='/home/aidan/.ssh'
+let g:netrw_dirhist_8='/home/aidan/HartreeParticleDSL/src/HartreeParticleDSL/backends'
+let g:netrw_dirhist_7='/home/aidan/HartreeParticleDSL/src/HartreeParticleDSL/backends/AST_to_Particle_IR'
+let g:netrw_dirhist_6='/home/aidan/otter/src/otter-task-graph'
+let g:netrw_dirhist_5='/home/aidan/otter/src/modulefiles'
+let g:netrw_dirhist_4='/home/aidan/otter/cmake'
+let g:netrw_dirhist_3='/home/aidan/PSyclone/src/psyclone/tests/psyir/nodes'
